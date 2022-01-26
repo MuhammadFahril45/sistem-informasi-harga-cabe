@@ -1,0 +1,52 @@
+{
+    "prices": [{
+            "class": "price_down",
+            "icon": "fa fa-arrow-down",
+            "status": "Naik",
+            "title": "Cabai Merah Besar",
+            "price": "Rp41.000",
+            "denom": "PER KG",
+            "prices": "0,-800,-300,-450,250,-100,150,650",
+            "desc": "1.61% - Rp650",
+            "harga": "10000",
+            "gambar": "img/cabemerahbesar.png"
+        },
+        {
+            "class": "price_down",
+            "icon": "fa fa-arrow-down",
+            "status": "Turun",
+            "title": "Cabai Merah Keriting ",
+            "price": "Rp40.350",
+            "denom": "PER KG",
+            "prices": "0,-700,-800,-450,300,0,250,-150",
+            "desc": "0.37% - Rp150",
+            "harga": "10000",
+            "gambar": "img/cabekriting.png"
+        },
+        {
+            "class": "price_down",
+            "icon": "fa fa-arrow-down",
+            "status": "Turun",
+            "title": "Cabai Rawit Hijau",
+            "price": "Rp49.750",
+            "denom": "Per kg",
+            "prices": "0,-400,-950,-900,-950,-250,-250,-1300",
+            "desc": "2.55% - Rp1.300",
+            "harga": "10000",
+            "gambar": "img/cabehijau.png"
+        },
+        {
+            "class": "price_down",
+            "icon": "fa fa-arrow-down",
+            "status": "Turun",
+            "title": "Cabai Rawit Merah",
+            "price": "Rp57.750",
+            "denom": "Per kg",
+            "prices": "0,-1100,-850,-1400,-2500,-150,50,-1750",
+            "desc": "2.94% - Rp1.750",
+            "harga": "10000",
+
+            "gambar": "img/caberawitmerah.png"
+        }
+    ]
+}
